@@ -35,6 +35,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="JupyterNotebook" alt="JupyterNotebook" width="40" height="40"/>
 </div>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SiddharthVartha&show_icons=true&theme=radical" height="200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthVartha&theme=radical" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SiddharthVartha&show_icons=true&theme=dark" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthVartha&theme=dark" height="200" />
 </div>
