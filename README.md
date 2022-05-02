@@ -9,7 +9,7 @@
     :man_technologist: About Me :<br>
     - 🔭 I’m currently working on MERN stack <br>
     - 🌱 I’m currently learning MERN stack<br>
-    - 🏫 I'm currently persuing my B.Tech from VCET<br>
+    - 🏫 I'm currently persuing my B.E from VCET<br>
     - 📫 How to reach me:- siddharthvartha@gmail.com<br>
   </div>
  <h2>Skills</h2>
