@@ -34,5 +34,5 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="JupyterNotebook" alt="JupyterNotebook" width="40" height="40"/>
 </div>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthVartha&show_icons=true&theme=dark"/>
 </div>
