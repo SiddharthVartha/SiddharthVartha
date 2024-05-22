@@ -1,13 +1,11 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"/>
 </h1>
   <div align="center">
     :man_technologist: About Me :<br>
-    - 🌱 I’m currently learning DeepLearning<br>
     - 🏫 I'm currently persuing my MTech from IIT Madras<br>
     - 📫 How to reach me:- siddharthvartha@gmail.com<br>
   </div>
